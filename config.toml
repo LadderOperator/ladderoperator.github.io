@@ -35,12 +35,6 @@ home = ["HTML", "RSS"]
 
   custom_css = ["css/hugo-ladderoperator.css"]
 
-[params.beian]
-
-icp_text = "苏ICP备20017702号-1"
-wangan_text = "苏公网安备 32011702000204号"
-wangan_code = "32011702000204"
-
 [params.social]
 rss     = true 
 email   = "tz_ji@qq.com"
