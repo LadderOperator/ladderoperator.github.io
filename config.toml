@@ -30,16 +30,10 @@ home = ["HTML", "RSS"]
   about_me = true
 
   # Sidebar settings
-  sidebar_about_description = "南京大学凝聚态物理在读研究生"
+  sidebar_about_description = "不可回收型学术垃圾"
   sidebar_avatar = "img/avatar.jpg"
 
   custom_css = ["css/hugo-ladderoperator.css"]
-
-[params.beian]
-
-icp_text = "苏ICP备20017702号-1"
-wangan_text = "苏公网安备 32011702000204号"
-wangan_code = "32011702000204"
 
 [params.social]
 rss     = true 
@@ -55,6 +49,9 @@ href  =  "https://ydjsir.com.cn/"
 [[params.friend_link]]
 title = "Muthesius"
 href  =  "https://myandeg.xyz/"
+[[params.friend_link]]
+title = "LoveApple"
+href  =  "https://loveapple.icu/"
 
 [[params.bookmark_link]]
 title =  "南京大学IT侠文档共享计划"
